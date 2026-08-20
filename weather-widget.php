@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name:       Weather Widget
+ * Plugin Name:       YKS Weather Widget
  * Plugin URI:        https://github.com/yourusername/weather-widget
  * Description:       Adds a [weather_widget city="London"] shortcode that shows the current temperature and conditions for a city, using the OpenWeatherMap API.
  * Version:           1.0.0
  * Author:            Yogendrakumar Sahani
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       weather-widget
+ * Text Domain:       yks-weather-widget
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
